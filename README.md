@@ -1,7 +1,7 @@
 # PHP_MySQL_LionDesk
 Assignment - Online application written in PHP with a MySQL database to book hotdesks in an office
 
-HDSD – CA - Assignment 3 – 2017-2018 - Caroline Bidet
+Database Course - Assignment 
 
 Overall description of the context where the database will be used
  
